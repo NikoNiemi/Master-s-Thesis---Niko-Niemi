@@ -20,6 +20,9 @@
 *                                                                       *
 *************************************************************************/
 
+// Last updated: 8.6.2017
+// Done by Niko Niemi as a part of his Master's Thesis
+
 #include <ode/ode.h>
 #include <drawstuff/drawstuff.h>
 #include "fileIO.h"
